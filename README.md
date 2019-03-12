@@ -1,5 +1,3 @@
 # hello-world
 
-Hi everyone!
-
-I am MinYu. A fresh programmer who wants to learn more.
+This is my blog album.
